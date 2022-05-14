@@ -1,0 +1,8 @@
+{
+   "env": {
+     "MONGO_ATLAS_PW": "",
+     "AUTH_SALT": "SOMETHING_HERE_1",
+     "SECRET_KEY": "SOMETHING_HERE_2",
+   }
+ }
+// usage process.env.AUTH_SALT
